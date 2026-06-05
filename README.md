@@ -42,6 +42,10 @@ pip install -r requirements.txt
 streamlit run classification.py
 ```
 
+## Application Preview
+
+![Application Screenshot](app_screenshot.png)
+
 ## Author
 
 Mahnoor Khalid
